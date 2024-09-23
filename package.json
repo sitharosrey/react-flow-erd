@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "elkjs": "^0.9.3",
+    "next": "14.2.13",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.13"
+    "reactflow": "^11.11.4"
   },
   "devDependencies": {
     "postcss": "^8",
